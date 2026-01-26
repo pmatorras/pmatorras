@@ -8,6 +8,31 @@ I'm a data scientist with a PhD in particle physics, specialising in Machine Lea
 🔬 **Former CERN Researcher** at CMS Collaboration  
 🎓 **PhD in Particle Physics** (cum laude) | Universidad de Cantabria
 
+## 🛠️ Tech Stack
+
+**Machine Learning & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+**Data Science & Analysis**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+
+**Physics & Research**  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![ROOT](https://img.shields.io/badge/ROOT-Physics-blue?style=flat)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
 ## 🚀 Featured Projects
 
 ### [Financial-ML: Equity Selection System](https://github.com/pmatorras/Financial-ML)
@@ -28,13 +53,7 @@ End-to-end system predicting match outcomes across Europe's top five leagues.
 ### [MacroEconomics Dashboard](https://github.com/pmatorras/MacroEconomics-Dashboard)
 Interactive dashboard exploring macroeconomic indicators across countries using Plotly/Dash.
 
-## 🛠️ Technical Skills
 
-**Languages & Tools:** Python, C++, R, MATLAB  
-**ML/DL:** PyTorch, Hugging Face Transformers, scikit-learn, TensorFlow, XGBoost  
-**NLP:** FinBERT, LLM fine-tuning, LoRA/QLoRA, Multi-Task Learning  
-**Data Science:** Pandas, NumPy, statistical modelling, time series analysis  
-**Computing:** Distributed computing (Condor, Slurm), Monte Carlo methods
 
 ## 📚 Background
 
@@ -46,6 +65,11 @@ Interactive dashboard exploring macroeconomic indicators across countries using 
 - **Teaching Assistant** | Universidad de Cantabria | 2021-2023
 
 - **Research Assistant** | University of Zurich | 2018-2019
+### 🔬 Research Code & Large-Scale Computing
+*Contributor to CMS Experiment software frameworks (~100k+ lines of code):*
+- **[LatinoAnalysis](https://github.com/latinos/LatinoAnalysis)** – Distributed analysis framework for multi-terabyte datasets.
+- **[BTVNanoCommissioning](https://github.com/cms-btv-pog/BTVNanoCommissioning)** – Workflow for heavy-flavour jet identification validation.
+- **[PlotsConfigurations](https://github.com/latinos/PlotsConfigurations)** – Configuration management for statistical inference.
 
 ## 🌏 International Experience
 
@@ -53,11 +77,10 @@ Lived and worked in 4 countries (Spain, Switzerland, UK, USA) and visited 39 oth
 
 ## 📫 Let's Connect
 
-- 📧 Email: pablo.matorras@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-matorras/)
-- 🌐 [Personal Website](https://pablo.matorras.com) *(if you have one)*
-- 📊 [InspireHEP](https://inspirehep.net/authors/1747621) | h-index: 59 | 12,520 citations
-
+- 📧 Email: pablo[at]matorras[dot] com
+- 💼 **LinkedIn:** [linkedin.com/in/pablo-matorras](https://www.linkedin.com/in/pablo-matorras/)
+- 🌐 **Website:** [pablo.matorras.com](https://pablo.matorras.com)
+- 🤗 **Hugging Face:** [huggingface.co/pmatorras](https://huggingface.co/pmatorras)
+- 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=AybvnrwAAAAJ)
+- ⚛️ [**InspireHEP**](https://inspirehep.net/authors/1642114)
 ---
-
-💡 *Passionate about turning complex data into actionable insights at the intersection of physics, finance, and AI.*
