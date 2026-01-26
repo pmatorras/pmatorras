@@ -77,10 +77,10 @@ Lived and worked in 4 countries (Spain, Switzerland, UK, USA) and visited 39 oth
 
 ## 📫 Let's Connect
 
-- 📧 Email: pablo[at]matorras[dot] com
+- 📧 **Email:** pablo[at]matorras[dot] com
 - 💼 **LinkedIn:** [linkedin.com/in/pablo-matorras](https://www.linkedin.com/in/pablo-matorras/)
 - 🌐 **Website:** [pablo.matorras.com](https://pablo.matorras.com)
 - 🤗 **Hugging Face:** [huggingface.co/pmatorras](https://huggingface.co/pmatorras)
-- 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=AybvnrwAAAAJ)
-- ⚛️ [**InspireHEP**](https://inspirehep.net/authors/1642114)
+- 🎓 **Google Scholar:** [Pablo Matorras-Cuevas](https://scholar.google.com/citations?user=AybvnrwAAAAJ)
+- ⚛️ **InspireHEP:** [Pablo Matorras-Cuevas](https://inspirehep.net/authors/1642114)
 ---
