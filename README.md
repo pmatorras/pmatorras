@@ -21,37 +21,33 @@ I'm a data scientist with a PhD in particle physics, specialising in Machine Lea
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**DevOps, Tools & Deployment**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 **Physics & Research**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![ROOT](https://img.shields.io/badge/ROOT-Physics-blue?style=flat)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 
 ## 🚀 Featured Projects
 
-### [Financial-ML: Equity Selection System](https://github.com/pmatorras/Financial-ML)
-Machine learning system predicting S&P 500 outperformers using market data, fundamentals, and sentiment indicators.
-- **20.2% annual returns** | **0.93 Sharpe ratio**
-- Random Forest with time series cross-validation
+### 🤖 Machine Learning & Prediction
+**[Financial-ML](https://github.com/pmatorras/Financial-ML)** - Equity selection system with **20.2% annual returns** and **0.93 Sharpe ratio**  
+**[footAI](https://github.com/pmatorras/footAI)** ([⚽ Live ELO](https://pablo.matorras.com/projects/footai.html)) - Football match predictions across Europe's top 5 leagues (**50.5% accuracy**)
 
-### [Financial-Sentiment-LLM](https://github.com/pmatorras/Financial-Sentiment-LLM)
-Advanced NLP pipeline fine-tuning **FinBERT** for financial sentiment analysis.
-- Multi-task architecture (classification + regression)
-- **85.4% accuracy** across news, social media, and forums
+### 🔤 Natural Language Processing
+**[Financial-Sentiment-LLM](https://github.com/pmatorras/Financial-Sentiment-LLM)** ([💬 Demo](https://pablo.matorras.com/projects/finsentiment.html)) - FinBERT fine-tuning with multi-task architecture (**85.4% accuracy**)
 
-### [footAI: Football Analytics](https://github.com/pmatorras/footAI)
-End-to-end system predicting match outcomes across Europe's top five leagues.
-- Combines Elo ratings with Random Forest
-- **50.5% accuracy** on three-class prediction
+### 📈 Data Engineering & Visualization
+**[Meteomat](https://github.com/pmatorras/meteomat)** ([🌦️ Live](https://meteo.matorras.com)) - Probabilistic weather forecasting dashboard with ECMWF ensemble uncertainty  
+**[MacroEconomics Dashboard](https://github.com/pmatorras/MacroEconomics-Dashboard)** ([📊 Live](https://pablo.matorras.com/projects/macroeconomics.html)) - Interactive exploration of macroeconomic indicators
 
-### [MacroEconomics Dashboard](https://github.com/pmatorras/MacroEconomics-Dashboard)
-Interactive dashboard exploring macroeconomic indicators across countries using Plotly/Dash.
 
 
 
