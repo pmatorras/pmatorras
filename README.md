@@ -74,10 +74,10 @@ I'm a data scientist with a PhD in particle physics, specialising in Machine Lea
 Lived and worked in 4 countries (Spain, Switzerland, UK, USA) and visited 39 others. Exchange programmes at University College London, University of Pittsburgh, and University of Zurich.
 
 ## 📫 Let's Connect
-
 - 📧 **Email:** pablo[at]matorras[dot] com
+- 💡 **Work GitHub:** [@pmatorrasctc](https://github.com/pmatorrasctc) *(company account at CTC)*
 - 💼 **LinkedIn:** [linkedin.com/in/pablo-matorras](https://www.linkedin.com/in/pablo-matorras/)
-- 🌐 **Website:** [pablo.matorras.com](https://pablo.matorras.com)
+- 🌐 **Portfolio Website:** [pablo.matorras.com](https://pablo.matorras.com)
 - 🤗 **Hugging Face:** [huggingface.co/pmatorras](https://huggingface.co/pmatorras)
 - 🎓 **Google Scholar:** [Pablo Matorras-Cuevas](https://scholar.google.com/citations?user=AybvnrwAAAAJ)
 - ⚛️ **InspireHEP:** [Pablo Matorras-Cuevas](https://inspirehep.net/authors/1642114)
